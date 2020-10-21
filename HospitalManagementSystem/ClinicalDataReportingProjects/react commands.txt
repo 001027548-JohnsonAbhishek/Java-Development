@@ -1,0 +1,10 @@
+cd "Desktop\Spring Boot Udemy\Clinic Project\ClinicalFrontEnd"
+
+yarn create react-app clinicalapp
+
+npx create-react-app my-app
+
+
+npm install axios
+
+npm install react-router-dom
