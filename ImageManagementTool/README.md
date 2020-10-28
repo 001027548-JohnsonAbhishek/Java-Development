@@ -11,5 +11,5 @@ The application is an Image Management Tool developed using Java.
 * Designed and implemented the project in MVC architecture.
 * Developed the code of the project in IntelliJ IDE and used JAVAFX library for front-end.
 
-
+To view the source code open the src file
 To view the working of the project, open the project-working.pdf file. 
